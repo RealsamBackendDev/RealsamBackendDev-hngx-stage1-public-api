@@ -4,7 +4,8 @@ This is a simple API that classifies numbers based on various mathematical prope
 
 ## API Endpoints
 
-### GET [http://127.0.0.1:5000/api/classify-number?number=371](https://vercel.com/realsambackenddevs-projects/realsam-backend-dev-hngx-stage1-public-api)
+### GET https://vercel.com/realsambackenddevs-projects)/api/classify-number?number=371
+
 This endpoint classifies a number and returns various mathematical properties.
 ## CODE
 from flask import Flask, jsonify, request
